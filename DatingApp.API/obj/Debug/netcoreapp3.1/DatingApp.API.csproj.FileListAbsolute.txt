@@ -1,5 +1,4 @@
 D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.exe
 D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.deps.json
@@ -53,3 +52,4 @@ D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.A
 D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
