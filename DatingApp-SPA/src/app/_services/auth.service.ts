@@ -20,7 +20,6 @@ constructor(private http: HttpClient) { }
         if (user) {
           localStorage.setItem('token', user.token);
           this.decodedToken = this.jwtHelper.decodeToken(user.token);
-          console.log(this.decodedToken);
         }
       })
     );
@@ -34,5 +33,4 @@ constructor(private http: HttpClient) { }
     const token = localStorage.getItem('token');
     return !this.jwtHelper.isTokenExpired(token);
   }
-
 }
