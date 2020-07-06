@@ -53,7 +53,7 @@
       "Country": "Namibia",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/women/41.jpg",
+          "url": "https://randomuser.me/api/portraits/women/42.jpg",
           "isMain": true,
           "description": "Dolore anim dolor aute cillum dolore."
         }
@@ -113,7 +113,7 @@
         "Country": "Cocos (Keeling Islands)",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/men/69.jpg",
+            "url": "https://randomuser.me/api/portraits/men/70.jpg",
             "isMain": true,
             "description": "Cupidatat dolor consequat ad pariatur dolor enim eiusmod sint labore dolore."
         }
@@ -193,7 +193,7 @@
         "Country": "Niger",
         "Photos": [
         {
-            "url": "https://randomuser.me/api/portraits/men/69.jpg",
+            "url": "https://randomuser.me/api/portraits/men/81.jpg",
             "isMain": true,
             "description": "Proident incididunt esse magna laborum deserunt do voluptate elit duis pariatur mollit aliquip sit."
         }
