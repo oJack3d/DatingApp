@@ -59,3 +59,4 @@ D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.A
 D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documents\angular\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
