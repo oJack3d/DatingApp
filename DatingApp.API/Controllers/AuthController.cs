@@ -72,8 +72,8 @@ namespace DatingApp.API.Controllers
 
             var token = tokenHandler.CreateToken(tokenDescriptor);
 
-            //TODO: hmmmmm mol luege weni das wieder gsen
-            var user = _mapper.Map<UserForDetailedDto>(userFromRepo);
+            //TODO: hmmmmm mol luege weni das wieder gsen -> forList isch globs besso
+            var user = _mapper.Map<UserForListDto>(userFromRepo);
             return Ok(new{
                 token = tokenHandler.WriteToken(token),
                 user
